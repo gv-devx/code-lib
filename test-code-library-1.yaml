@@ -4,8 +4,8 @@ metadata:
   name: test-code-library-1
   description: Testing Code Library 1
   tags:
-    - jquery
-    - testing
+    - c
+    - c++
   links:
     - url: https://example.com/user
       title: Examples Users
