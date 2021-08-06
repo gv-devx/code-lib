@@ -4,8 +4,8 @@ metadata:
   name: test-code-library-1
   description: Testing Code Library 1
   tags:
-    - c
-    - csharp
+    - c1
+    - csharp1
   links:
     - url: https://example.com/user
       title: Examples Users
