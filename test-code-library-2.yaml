@@ -4,8 +4,8 @@ metadata:
   name: test-code-library-2
   description: Testing Code Library 2
   tags:
-    - PHP
-    - HTML
+    - php
+    - html
   links:
     - url: https://example.com/user
       title: Examples Users
