@@ -4,8 +4,8 @@ metadata:
   name: test-code-library-3
   description: Testing Code Library 3
   tags:
-    - DotNET
-    - MS
+    - dotnet
+    - microsoft
   links:
     - url: https://example.com/user
       title: Examples Users
