@@ -5,7 +5,7 @@ metadata:
   description: Testing Code Library 1
   tags:
     - c
-    - c-sharp
+    - csharp
   links:
     - url: https://example.com/user
       title: Examples Users
