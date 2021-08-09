@@ -29,7 +29,7 @@ metadata:
       title: Alerts
       icon: alert
 spec:
-  type: code-library
+  type: service
   lifecycle: development
   owner: gv
   system: test-system
