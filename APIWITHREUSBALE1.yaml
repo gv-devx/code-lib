@@ -1,0 +1,55 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata: 
+  name: APIWITHREUSBALE1
+  description: Test
+  annotations:
+    backstage.io/view-url: ""
+    backstage.io/edit-url: ""
+    backstage.io/source-location: url:""
+    backstage.io/orphan: 'true'
+  tags: 
+    - devx
+    - reusable
+  apiLOB: "Global Advisory - A&T"
+  apicategory: Functional
+  apicountry: "United States of America"
+  apigatewayenvironments: 
+    - "Azure APAC(HK) Pre-Production Gateways"
+    - "Azure Pre-Production Gateways"
+    - "AWS Pre-Production Gateways"
+  apiperformance: "50 TPS"
+  apiregions: 
+    - Americas
+  apiscope: Partner
+  apisegment: "Global Advisory"
+  apiservice: "Expense Management Solutions"
+  apiversion: 1.0
+  apmid: NA1011
+  comments: 
+    - 
+      reviewer: 
+        comments: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+        date: "2021-30-08 01:29:00"
+        user: "user:satya.raju"
+    - 
+      publisher: 
+        comments: ~
+        date: 
+        user: 
+  creationTimestamp: "2021-29-08 01:29:00"
+  devxstate: Approved
+  avgrating: 3.5
+  rating: 
+    - 
+      user: "user:sahil.sahni"
+      value: "Great api"
+      feedback: 3.5
+spec: 
+  type: openapi
+  lifecycle: production
+  owner: "user:abesh.misra"
+  resuable: "y"
+  techowner: "user:akash.jaiswal"
+  definition:
+    $text: https://github.com/subrato-mozumdar/backstage/blob/master/packages/catalog-model/examples/apis/APIWITHREUSBALE1-swagger.json
