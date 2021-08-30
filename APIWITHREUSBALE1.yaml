@@ -34,9 +34,9 @@ metadata:
         user: "user:satya.raju"
     - 
       publisher: 
-        comments: ~
-        date: 
-        user: 
+        comments: "Some testing comments"
+        date: "2021-30-08 02:29:00"
+        user: "user:abesh.misra"
   creationTimestamp: "2021-29-08 01:29:00"
   devxstate: Approved
   avgrating: 3.5
